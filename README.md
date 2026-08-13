@@ -1,7 +1,7 @@
 # ❌⭕ Jogo da Velha (Tic-Tac-Toe) - Refatorado
 
 ## 📌 Visão Geral do Projeto
-Este projeto consiste na **refatoração e evolução do tutorial oficial do React**[cite: 1]. O objetivo principal é transformar a implementação inicial em uma aplicação robusta, acessível e responsiva.
+Este projeto consiste na **refatoração e evolução do tutorial oficial do React**. O objetivo principal é transformar a implementação inicial em uma aplicação robusta, acessível e responsiva.
 
 Além da refatoração técnica do código base, o projeto traz uma experiência renovada para o usuário (UX/UI), adicionando novas funcionalidades como:
 *   **Placar de Pontuação:** Acompanhamento de vitórias de cada jogador e empates.
