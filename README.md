@@ -28,7 +28,7 @@ Certifique-se de ter o **Node.js** (versão 18 ou superior) instalado em sua má
 
 1. **Clonar o repositório:**
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/fernandagml/jogo-da-velha
 
 2. **Acessar a pasta do projeto:**
     ```bash
