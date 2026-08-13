@@ -11,11 +11,11 @@ Além da refatoração técnica do código base, o projeto traz uma experiência
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
-*   **React** (via **Vite**)[cite: 1]
-*   **JavaScript (ES6+)**[cite: 1]
-*   **CSS Modules** (Escopamento de estilos)[cite: 1]
-*   **Metodologia BEM** (Naming convention CSS)[cite: 1]
-*   **HTML5 Semântico & Acessibilidade (ARIA)**[cite: 1]
+*   **React** (via **Vite**)
+*   **JavaScript (ES6+)**
+*   **CSS Modules** (Escopamento de estilos)
+*   **Metodologia BEM** (Naming convention CSS)
+*   **HTML5 Semântico & Acessibilidade (ARIA)**
 
 ---
 
