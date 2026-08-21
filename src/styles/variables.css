@@ -1,0 +1,21 @@
+:root {
+    /* Paleta Base */
+    --color-blue-dark: #0C324A;
+    --color-blue-light: #679CBC;
+    --color-red: #C11720;
+    --color-beige: #FEF1D5;
+  
+    /* Tema Claro (Padrão) */
+    --bg-primary: var(--color-blue-light);
+    --text-primary: var(--color-blue-dark);
+    --board-bg: var(--color-red);
+    --board-text: var(--color-beige);
+  }
+  
+  [data-theme='dark'] {
+    /* Tema Escuro */
+    --bg-primary: var(--color-blue-dark);
+    --text-primary: var(--color-beige);
+    --board-bg: var(--color-red);
+    --board-text: var(--color-beige);
+  }
